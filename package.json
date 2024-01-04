@@ -1,0 +1,15 @@
+{
+  "name": "clone-facebook-app",
+  "version": "1.0.0",
+  "description": "clone Facebook login",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "Geodev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.8"
+  }
+}
